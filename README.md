@@ -1,7 +1,6 @@
 ### ✅ **1주차: 자바 문법 & 객체지향 설계**
 
-| 주제 |
-| -- |
+**주제**
 
 * 클래스, 상속, 인터페이스
 * 추상 클래스 vs 인터페이스 실전 비교
@@ -20,8 +19,7 @@
 
 ### ✅ **2주차: 자료구조 & 컬렉션 + 제네릭**
 
-| 주제 |
-| -- |
+**주제**
 
 * ArrayList vs LinkedList
 * HashMap vs TreeMap
@@ -39,8 +37,7 @@
 
 ### ✅ **3주차: 람다 & 메서드 참조 + Comparator/Comparable + 함수형 인터페이스**
 
-| 주제 |
-| -- |
+**주제**
 
 * 람다 표현식 문법
 * 메서드 참조 (`Class::method`)
@@ -58,8 +55,7 @@
 
 ### ✅ **4주차: Optional + Stream 기초**
 
-| 주제 |
-| -- |
+**주제**
 
 * Optional 기본/고급 사용법 (map, flatMap, orElse, ifPresent)
 * Stream 기초: map, filter, reduce
@@ -76,8 +72,7 @@
 
 ### ✅ **5주차: Stream 심화 & 병렬 스트림**
 
-| 주제 |
-| -- |
+**주제**
 
 * flatMap 개념 및 활용
 * Stream + Optional 혼용
@@ -94,8 +89,7 @@
 
 ### ✅ **6주차: JVM & 메모리 구조**
 
-| 주제 |
-| -- |
+**주제**
 
 * JVM 구조 (Heap, Stack, Metaspace)
 * GC(Garbage Collection) 종류와 동작
@@ -113,8 +107,7 @@
 
 ### ✅ **7주차: 실무 설계 패턴 + Java 17\~21 신문법**
 
-| 주제 |
-| -- |
+**주제**
 
 * Lombok (@Getter, @Builder, @Slf4j 등)
 * Builder 패턴 vs Telescoping Constructor
