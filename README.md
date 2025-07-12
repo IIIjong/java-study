@@ -8,6 +8,7 @@
 * enum, record 실습
 * equals(), hashCode() 재정의
 * 예외 처리 (Checked vs Unchecked, 커스텀 예외)
+- [Week 1 실습](/week01/실습문제.md)
 
 ---
 
@@ -20,6 +21,7 @@
 * HashSet, LinkedHashSet, TreeSet 비교
 * Stack, Queue, Deque
 * 제네릭 기본 개념과 실습
+- [Week 2 실습](/week02/실습문제.md)
 
 ---
 
@@ -32,6 +34,7 @@
 * Comparator vs Comparable 차이
 * Comparator 커스터마이징
 * 함수형 인터페이스 (Predicate, Function, Consumer 등)
+- [Week 3 실습](/week03/실습문제.md)
 
 
 ---
@@ -44,6 +47,7 @@
 * Stream 기초: map, filter, reduce
 * sorted, distinct, collect
 * Stream에서 람다 활용
+- [Week 4 실습](/week04/실습문제.md)
 
 ---
 
@@ -55,12 +59,7 @@
 * Stream + Optional 혼용
 * 병렬 스트림 개념과 유의점
 * 성능 측정과 최적화
-
-**실습**
-
-* 데이터 그룹화/집계 (Collectors.groupingBy 등)
-* flatMap 활용 예제
-* 병렬 스트림과 순차 스트림 성능 비교
+- [Week 5 실습](/week05/실습문제.md)
 
 ---
 
@@ -73,7 +72,7 @@
 * JVM 옵션 (`-Xms`, `-Xmx`, `-XX:+PrintGCDetails`)
 * 리플렉션 기본 개념
 * 직렬화와 transient 키워드
-
+- [Week 6 실습](/week06/실습문제.md)
 ---
 
 ### ✅ **7주차: 실무 설계 패턴 + Java 17\~21 신문법**
@@ -87,6 +86,7 @@
 * 전역 예외 처리 (@ControllerAdvice)
 * record 심화, sealed class, switch 표현식 개선
 * Text block, pattern matching, virtual thread
+- [Week 7 실습](/week07/실습문제.md)
 
 ---
 
